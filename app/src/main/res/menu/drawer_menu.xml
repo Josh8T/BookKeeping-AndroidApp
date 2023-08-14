@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_add"
+        android:title="Add Book" />
+    <item
+        android:id="@+id/drawer_remove_last"
+        android:title="Remove Last" />
+    <item
+        android:id="@+id/drawer_remove_all"
+        android:title="Remove All" />
+    <item
+        android:id="@+id/drawer_doublePrice"
+        android:title="Double The Price" />
+    <item
+        android:id="@+id/drawer_setISBN"
+        android:title="Set ISBN" />
+    <item
+        android:id="@+id/drawer_list_books"
+        android:title="List of Books" />
+    <item
+        android:id="@+id/drawer_delete_unknown"
+        android:title="Delete Unknown" />
+    <item
+        android:id="@+id/drawer_closeApp"
+        android:title="Close" />
+</menu>
